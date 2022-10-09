@@ -7,7 +7,7 @@ Technology stack:
   - MVVM
   - Dependeny Injection (Hilt)
   
-  Api used: https://jsonplaceholder.typicode.com/
+  # [Api](https://jsonplaceholder.typicode.com/)
   
   # Photos
   
