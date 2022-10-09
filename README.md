@@ -1,10 +1,11 @@
 # ComposeFakeApi with Material3
 Technology stack:
   - Retrofit
-  - Compose
+  - Jetpack Compose
   - Material3 with Dynamic colors
   - CleanArchitecture
   - MVVM
+  - Dependeny Injection (Hilt)
   
   Api used: https://jsonplaceholder.typicode.com/
   
